@@ -1,4 +1,5 @@
 import React from "react";
+// small update
 
 function NavBar() {
   // update the JSX being returned!
